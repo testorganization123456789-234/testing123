@@ -14,7 +14,7 @@ namespace TrainingAPIProject.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "sss", "value2" };
+            return new string[] { "ssss", "value2" };
         }
 
         // GET api/values/5
