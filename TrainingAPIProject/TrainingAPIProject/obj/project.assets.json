@@ -12150,11 +12150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\TrainingAPIProject\\TrainingAPIProject\\TrainingAPIProject.csproj",
+      "projectUniqueName": "D:\\Training\\testing123\\TrainingAPIProject\\TrainingAPIProject\\TrainingAPIProject.csproj",
       "projectName": "TrainingAPIProject",
-      "projectPath": "D:\\Training\\TrainingAPIProject\\TrainingAPIProject\\TrainingAPIProject.csproj",
+      "projectPath": "D:\\Training\\testing123\\TrainingAPIProject\\TrainingAPIProject\\TrainingAPIProject.csproj",
       "packagesPath": "C:\\Users\\saig\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\TrainingAPIProject\\TrainingAPIProject\\obj\\",
+      "outputPath": "D:\\Training\\testing123\\TrainingAPIProject\\TrainingAPIProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

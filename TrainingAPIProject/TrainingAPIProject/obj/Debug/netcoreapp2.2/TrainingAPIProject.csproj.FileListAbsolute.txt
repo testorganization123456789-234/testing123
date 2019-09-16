@@ -12,3 +12,17 @@ D:\Training\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\Traini
 D:\Training\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.RazorTargetAssemblyInfo.cache
 D:\Training\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.dll
 D:\Training\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.pdb
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\bin\Debug\netcoreapp2.2\TrainingAPIProject.deps.json
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\bin\Debug\netcoreapp2.2\TrainingAPIProject.runtimeconfig.json
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\bin\Debug\netcoreapp2.2\TrainingAPIProject.runtimeconfig.dev.json
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\bin\Debug\netcoreapp2.2\TrainingAPIProject.dll
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\bin\Debug\netcoreapp2.2\TrainingAPIProject.pdb
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.csprojAssemblyReference.cache
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.csproj.CoreCompileInputs.cache
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.RazorAssemblyInfo.cache
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.RazorAssemblyInfo.cs
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.AssemblyInfoInputs.cache
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.AssemblyInfo.cs
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.RazorTargetAssemblyInfo.cache
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.dll
+D:\Training\testing123\TrainingAPIProject\TrainingAPIProject\obj\Debug\netcoreapp2.2\TrainingAPIProject.pdb
